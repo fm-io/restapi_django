@@ -140,7 +140,7 @@ django_heroku.settings(locals())
 
 
 CORS_ALLOWED_ORIGINS = [
-    "https://cacu-waitlist.netlify.app/",
+    "https://cacu-waitlist.netlify.app",
 ]
 
 # Default primary key field type
